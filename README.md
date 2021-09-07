@@ -1,1 +1,1 @@
-◆ Project Ghost series : PCBs
+◆ Project Ghost PCB series
