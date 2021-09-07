@@ -15,3 +15,6 @@
 ▷ Hardware Reset-switch
 
 ▷ ISO & ANSI-support
+
+![layout_support_MX_Rev_A3](https://user-images.githubusercontent.com/77598960/132283430-40b808b2-0bc5-4c3f-ae04-8a89f5930ac6.jpg)
+
